@@ -1,0 +1,22 @@
+C:\Users\tbagn\OneDrive\Tim\Mount Union Climate\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.exe.config
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.exe.config
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.exe
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.pdb
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.csprojResolveAssemblyReference.cache
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.Form1.resources
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.Properties.Resources.resources
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.csproj.GenerateResource.Cache
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.exe
+C:\Users\tbagn\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.pdb
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.exe.config
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.exe
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.pdb
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.exe
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.pdb
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.csprojResolveAssemblyReference.cache
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.Form1.resources
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.Properties.Resources.resources
+C:\Users\TIMMAH\OneDrive\Tim\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.csproj.GenerateResource.Cache
+C:\Users\TIMMAH\Desktop\RaiderRadarTimeLapsePhotoCapture\bin\Debug\RaiderRadarTimeLapsePhotoCapture.exe.config
+C:\Users\TIMMAH\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.exe
+C:\Users\TIMMAH\Desktop\RaiderRadarTimeLapsePhotoCapture\obj\Debug\RaiderRadarTimeLapsePhotoCapture.pdb
